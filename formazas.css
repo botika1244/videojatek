@@ -3,7 +3,8 @@ body{
     background-size: cover;
     font-family: Arial, sans-serif;
     max-width: 1000px;
-    text-align: center;
+    margin: auto;
+    color: white;
 }
 
 img{
@@ -15,7 +16,7 @@ img{
 
 a{
     text-align: center;
-    color: grey;
+    color: rgb(209, 202, 202);
     text-decoration: none;
     padding: 10px;
     border: 10px solid grey;
@@ -27,15 +28,15 @@ h1{
     text-align: center;
     font-size: 50px;
     letter-spacing: 30px;
-    background-color: darkgrey;
+    text-transform: uppercase;
     padding: 20px;
 }
 
 h2{
     padding: 20px;
-    margin-top: 10px;
+    margin-top: 25px;
     margin-bottom: 10px;
-    background-color: lightgrey;
+    background-color: rgb(66, 62, 62);
     border-radius: 5%;
 }
 
